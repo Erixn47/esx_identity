@@ -6,7 +6,7 @@ author 'Erixn'
 
 description 'ESX Identity'
 
-version '1.6.0'
+version '1.0'
 
 shared_script '@es_extended/imports.lua'
 
