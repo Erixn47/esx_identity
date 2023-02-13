@@ -2,6 +2,8 @@ fx_version 'adamant'
 
 game 'gta5'
 
+author 'Erixn'
+
 description 'ESX Identity'
 
 version '1.6.0'
